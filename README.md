@@ -1,1 +1,1 @@
-# ecg-classification
+# electrocardiogram-classification
